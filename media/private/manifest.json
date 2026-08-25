@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T14:33:41.380Z",
+  "generatedAt": "2026-08-25T19:52:33.053Z",
   "privacyStatus": "P1-local-preview-only",
   "images": [
     {
@@ -134,6 +134,15 @@
       "privacyStatus": "processed-needs-human-review",
       "bytes": 15924,
       "thumbBytes": 5260
+    },
+    {
+      "id": "observatory-2024-08-08",
+      "chapter": "third",
+      "date": "2024-08-08",
+      "src": "/starlit-five-k2719q/media/private/images/observatory-2024-08-08.webp",
+      "focus": "50% 46%",
+      "privacyStatus": "processed-reviewed-no-interface-or-third-party-identity",
+      "bytes": 34838
     },
     {
       "id": "y3-bandicam-2024",
@@ -505,5 +514,5 @@
       "bytes": 28940
     }
   ],
-  "totalBytes": 24769818
+  "totalBytes": 24804656
 }
